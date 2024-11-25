@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini-Kata 5 - Simple Methods", "Mini-Kata 5 - Simple Methods\Mini-Kata 5 - Simple Methods.csproj", "{3763BB4B-743B-463A-B9DD-BE0CD589C9F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata 5 - Methods and Parameters", "Kata 5 - Methods and Parameters\Kata 5 - Methods and Parameters.csproj", "{C080368A-F4FE-41FB-83A1-64D21BB77D34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini-Kata 6 - Arrays and Lists Practice", "Mini-Kata 6 - Arrays and Lists Practice\Mini-Kata 6 - Arrays and Lists Practice.csproj", "{CB3433BB-6D8A-4C5A-98E4-206532AF8227}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata 6 - Arrays and Lists", "Kata 6 - Arrays and Lists\Kata 6 - Arrays and Lists.csproj", "{1D0A20AB-F5C2-488F-9FBF-5046D5E682E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini-Kata 7 - Object Instantiation", "Mini-Kata 7 - Object Instantiation\Mini-Kata 7 - Object Instantiation.csproj", "{F9323ED5-F00E-4C5A-BA3A-B5B87A26BDA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata 7 - Classes and Objects", "Kata 7 - Classes and Objects\Kata 7 - Classes and Objects.csproj", "{92215A0A-4F71-4E43-BC8E-C07C565D80EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata 8 - Encapsulation and Access Modifiers", "Kata 8 - Encapsulation and Access Modifiers\Kata 8 - Encapsulation and Access Modifiers.csproj", "{1EB47E32-3806-4C27-85E3-B89F86ED7DE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata 9 - Object Instantiation with Additional Classes", "Kata 9 - Object Instantiation with Additional Classes\Kata 9 - Object Instantiation with Additional Classes.csproj", "{226E099D-2FF8-4139-BAFE-14F71CFC04A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata 10 - Extracting Interfaces to Reduce Code Duplication", "Kata 10 - Extracting Interfaces to Reduce Code Duplication\Kata 10 - Extracting Interfaces to Reduce Code Duplication.csproj", "{1F84BDFC-10A0-4C8F-A021-ED9571294215}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam Kata", "Exam Kata\Exam Kata.csproj", "{28CE1FD2-B595-4834-A838-2F9DBEC3B5C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3763BB4B-743B-463A-B9DD-BE0CD589C9F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3763BB4B-743B-463A-B9DD-BE0CD589C9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3763BB4B-743B-463A-B9DD-BE0CD589C9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3763BB4B-743B-463A-B9DD-BE0CD589C9F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C080368A-F4FE-41FB-83A1-64D21BB77D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C080368A-F4FE-41FB-83A1-64D21BB77D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C080368A-F4FE-41FB-83A1-64D21BB77D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C080368A-F4FE-41FB-83A1-64D21BB77D34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB3433BB-6D8A-4C5A-98E4-206532AF8227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB3433BB-6D8A-4C5A-98E4-206532AF8227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB3433BB-6D8A-4C5A-98E4-206532AF8227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB3433BB-6D8A-4C5A-98E4-206532AF8227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D0A20AB-F5C2-488F-9FBF-5046D5E682E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D0A20AB-F5C2-488F-9FBF-5046D5E682E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D0A20AB-F5C2-488F-9FBF-5046D5E682E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D0A20AB-F5C2-488F-9FBF-5046D5E682E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9323ED5-F00E-4C5A-BA3A-B5B87A26BDA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9323ED5-F00E-4C5A-BA3A-B5B87A26BDA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9323ED5-F00E-4C5A-BA3A-B5B87A26BDA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9323ED5-F00E-4C5A-BA3A-B5B87A26BDA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92215A0A-4F71-4E43-BC8E-C07C565D80EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92215A0A-4F71-4E43-BC8E-C07C565D80EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92215A0A-4F71-4E43-BC8E-C07C565D80EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92215A0A-4F71-4E43-BC8E-C07C565D80EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EB47E32-3806-4C27-85E3-B89F86ED7DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB47E32-3806-4C27-85E3-B89F86ED7DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB47E32-3806-4C27-85E3-B89F86ED7DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB47E32-3806-4C27-85E3-B89F86ED7DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{226E099D-2FF8-4139-BAFE-14F71CFC04A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226E099D-2FF8-4139-BAFE-14F71CFC04A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226E099D-2FF8-4139-BAFE-14F71CFC04A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226E099D-2FF8-4139-BAFE-14F71CFC04A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F84BDFC-10A0-4C8F-A021-ED9571294215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F84BDFC-10A0-4C8F-A021-ED9571294215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F84BDFC-10A0-4C8F-A021-ED9571294215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F84BDFC-10A0-4C8F-A021-ED9571294215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28CE1FD2-B595-4834-A838-2F9DBEC3B5C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28CE1FD2-B595-4834-A838-2F9DBEC3B5C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28CE1FD2-B595-4834-A838-2F9DBEC3B5C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28CE1FD2-B595-4834-A838-2F9DBEC3B5C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
